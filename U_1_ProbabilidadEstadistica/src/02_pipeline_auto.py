@@ -92,7 +92,7 @@ def ejecutar_pipeline(df):
     # --------------------------------------------------------
 
     archivo_salida = (
-        "data/processed/"
+        "../data/processed/"
         "auto_resultado.csv"
     )
 

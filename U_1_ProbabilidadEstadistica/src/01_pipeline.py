@@ -84,7 +84,7 @@ print(promedio_pais.head(10))
 # ============================================================
 # 8. RESULTADO
 # ============================================================
-archivo_salida = "data/processed/promedio_esperanza_vida_por_pais.csv"
+archivo_salida = "../data/processed/promedio_esperanza_vida_por_pais.csv"
 
 promedio_pais.to_csv(
     archivo_salida,
