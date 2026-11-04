@@ -4,12 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/U_1_ProbabilidadEstadistica/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/U4/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="~\Documents\ACAD\bigdata\bigdata_512\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
-  <component name="PackageRequirementsSettings" />
-  <component name="PyDocumentationSettings" />
-  <component name="ReSTService" />
-  <component name="TestRunnerService" />
 </module>
