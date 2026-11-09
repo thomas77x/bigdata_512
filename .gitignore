@@ -1,1 +1,10 @@
 .venv
+.DS_Store
+.vscode/
+prueba/
+**/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/data/
+.idea
+.inline-review-notes
